@@ -1,9 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>ABL網站</title>
         <link>https://shufanlo.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 17:16:17 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Tue, 25 Feb 2025 17:16:17 &#43;0800</lastBuildDate>
             <atom:link href="https://shufanlo.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>D2ssssss</title>
+    <link>https://shufanlo.github.io/posts/d2/</link>
+    <pubDate>Tue, 25 Feb 2025 17:16:17 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://shufanlo.github.io/posts/d2/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>D111324</title>
+    <link>https://shufanlo.github.io/posts/d1/</link>
+    <pubDate>Tue, 25 Feb 2025 17:12:24 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://shufanlo.github.io/posts/d1/</guid>
+    <description><![CDATA[測試資料結果]]></description>
+</item>
+</channel>
 </rss>

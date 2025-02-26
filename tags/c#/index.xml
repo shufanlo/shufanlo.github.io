@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>C# - Tag - ABL網站</title>
+        <link>https://shufanlo.github.io/tags/c%23/</link>
+        <description>C# - Tag - ABL網站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Tue, 25 Feb 2025 17:12:24 &#43;0800</lastBuildDate><atom:link href="https://shufanlo.github.io/tags/c%23/" rel="self" type="application/rss+xml" /><item>
+    <title>D111324</title>
+    <link>https://shufanlo.github.io/posts/d1/</link>
+    <pubDate>Tue, 25 Feb 2025 17:12:24 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://shufanlo.github.io/posts/d1/</guid>
+    <description><![CDATA[測試資料結果]]></description>
+</item>
+<item>
+    <title>X111324</title>
+    <link>https://shufanlo.github.io/post/d2/</link>
+    <pubDate>Tue, 25 Feb 2025 17:12:24 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://shufanlo.github.io/post/d2/</guid>
+    <description><![CDATA[測試資料結果]]></description>
+</item>
+</channel>
+</rss>

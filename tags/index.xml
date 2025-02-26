@@ -1,7 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
+        <title>Tags - Tag - ABL網站</title>
         <link>https://shufanlo.github.io/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://shufanlo.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - Tag - ABL網站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Tue, 25 Feb 2025 17:12:24 &#43;0800</lastBuildDate><atom:link href="https://shufanlo.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>C#</title>
+    <link>https://shufanlo.github.io/tags/c%23/</link>
+    <pubDate>Tue, 25 Feb 2025 17:12:24 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://shufanlo.github.io/tags/c%23/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>NET</title>
+    <link>https://shufanlo.github.io/tags/net/</link>
+    <pubDate>Tue, 25 Feb 2025 17:12:24 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://shufanlo.github.io/tags/net/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>工廠</title>
+    <link>https://shufanlo.github.io/tags/%E5%B7%A5%E5%BB%A0/</link>
+    <pubDate>Tue, 25 Feb 2025 17:12:24 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://shufanlo.github.io/tags/%E5%B7%A5%E5%BB%A0/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
